@@ -33,3 +33,8 @@ Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSa
 
  Jika ada pertanyaan, silakan open issue pada repo ini ya!
  <b>Happy Coding! 🔥</b>
+
+
+ ## Nama lengkap dan email
+ MUHAMMAD FADILLAH MUIZ
+ fadilmuiz1319@gmail.com
